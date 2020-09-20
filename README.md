@@ -2,7 +2,7 @@
 
 <img  align="center" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/master/asset/obi-wan.gif" alt="Hello there from Obi-Wan"/>
 
-# I'm a junior front-end Developer, Looking to be fullstack.
+# I'm a front-end developer with a goal to be fullstack.
 
 ## 2020-2021 Goal
 * 😋️ Commit every day.
