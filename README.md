@@ -6,6 +6,7 @@
 ## 2020-2021 Goal
 * 😋️ Commit every day.
 * ✍ ️Write some post on [Dev.to](https://dev.to/)
+* 🙄️ Learn english
 
 ## Language & Tools:
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/webstorm.svg" alt="webstorm"/>
