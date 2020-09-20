@@ -11,7 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4abe24-36cf-4ee7-aefd-10524cc5010a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/css3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/discord.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/gatsby.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/git.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/graphql.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/html5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/javascript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/node-dot-js.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/rust.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sass.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/strapi.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/tailwindcss.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/typescript.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/webstorm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +44,9 @@
     <option name="directoryName" value="llyl0m1j" />
   </component>
   <component name="ProjectId" id="1hkmByGxjJI8WYFphdJviAL5AJP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,8 +54,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600563332810</updated>
-      <workItem from="1600563333856" duration="901000" />
+      <workItem from="1600563333856" duration="3320000" />
+      <workItem from="1600566831398" duration="788000" />
     </task>
     <servers />
   </component>
@@ -60,5 +89,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
