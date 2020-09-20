@@ -1,6 +1,6 @@
 ### Hello there I'm Vincent "_Risk0_"!
 
-<img  align="center" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/obi-wan.svg" alt="Hello there from Obi-Wan"/>
+<img  align="center" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/master/asset/obi-wan.gif" alt="Hello there from Obi-Wan"/>
 
 
 ## 2020-2021 Goal
