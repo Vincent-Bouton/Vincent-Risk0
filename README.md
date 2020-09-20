@@ -1,5 +1,6 @@
 ### Hello there I'm Vincent "_Risk0_"!
 
+<img  align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/source.gif" alt="Hello there from Obi-Wan"/>
 
 
 ## 2020-2021 Goal
@@ -20,6 +21,8 @@
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/graphql.svg" alt="graphql"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/node-dot-js.svg" alt="node-dot-js"/>
 
+<br/>
+
 ## Learning
 
 * <img width="20" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/strapi.svg" alt="Strapi"/> Strapi
@@ -29,7 +32,11 @@
 ---
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vincent-risk0&show_icons=true&include_all_commits=true&theme=radical" alt=""/>
+<br/>
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vincent-risk0&layout=compact&theme=radical" />
+
+<br/>
+<br/>
 
 --- 
 
