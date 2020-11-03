@@ -2,10 +2,12 @@
 
 <img  align="center" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/master/asset/obi-wan.gif" alt="Hello there from Obi-Wan"/>
 
+# I'm a front-end developer with a goal to be fullstack.
 
 ## 2020-2021 Goal
 * 😋️ Commit every day.
 * ✍ ️Write some post on [Dev.to](https://dev.to/)
+* 🙄️ Learn english
 
 ## Language & Tools:
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/webstorm.svg" alt="webstorm"/>
@@ -21,6 +23,7 @@
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/graphql.svg" alt="graphql"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/node-dot-js.svg" alt="node-dot-js"/>
 
+<br/>
 <br/>
 
 ## Learning
