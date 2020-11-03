@@ -11,6 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4abe24-36cf-4ee7-aefd-10524cc5010a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asset/next-dot-js.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Utility-folder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Utility-folder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Vincent-Risk0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Vincent-Risk0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -26,7 +31,7 @@
     <option name="directoryName" value="llyl0m1j" />
   </component>
   <component name="ProjectId" id="1hkmByGxjJI8WYFphdJviAL5AJP" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -54,7 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1600563332810</updated>
       <workItem from="1600563333856" duration="3320000" />
-      <workItem from="1600566831398" duration="2869000" />
+      <workItem from="1600566831398" duration="4048000" />
+      <workItem from="1600657652302" duration="17000" />
+      <workItem from="1604440642719" duration="1066000" />
     </task>
     <servers />
   </component>
@@ -72,5 +79,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="297" width="426" height="493" key="FileChooserDialogImpl" timestamp="1604440702036">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="742" y="297" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1604440702036" />
+    <state x="742" y="297" width="426" height="493" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1600657666359" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1600569891313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1600569891313" />
   </component>
 </project>
