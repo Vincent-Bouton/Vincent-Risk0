@@ -19,7 +19,7 @@
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/tailwindcss.svg" alt="tailwindcss"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/javascript.svg" alt="javascript"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/react.svg" alt="react"/>
-<img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/gatsby.svg" alt="gatsby"/>
+<img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/94a48449a28dabbbb34ce8e47bf09c477f63d3b7/asset/next-dot-js.svg" alt="Next.js"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/graphql.svg" alt="graphql"/>
 <img width="30" align="left" src="https://raw.githubusercontent.com/Vincent-Risk0/Vincent-Risk0/dec1138628daa19421a11a045fb13a796c555be2/asset/node-dot-js.svg" alt="node-dot-js"/>
 

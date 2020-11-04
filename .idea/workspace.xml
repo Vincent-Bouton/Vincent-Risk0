@@ -11,11 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4abe24-36cf-4ee7-aefd-10524cc5010a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/next-dot-js.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Utility-folder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Utility-folder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Vincent-Risk0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Vincent-Risk0.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -61,7 +57,7 @@
       <workItem from="1600563333856" duration="3320000" />
       <workItem from="1600566831398" duration="4048000" />
       <workItem from="1600657652302" duration="17000" />
-      <workItem from="1604440642719" duration="1066000" />
+      <workItem from="1604440642719" duration="2348000" />
     </task>
     <servers />
   </component>
