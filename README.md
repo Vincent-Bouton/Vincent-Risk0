@@ -5,7 +5,6 @@
 # I'm a front-end developer with a goal to be fullstack.
 
 ## 2020-2021 Goal
-* 😋️ Commit every day.
 * ✍ ️Write some post on [Dev.to](https://dev.to/)
 * 🙄️ Learn english
 
